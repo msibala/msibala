@@ -12,6 +12,4 @@ Here are some ideas to get you started: -->
 <br>
 💬 Ask me about Filipino food!
 <br>
-⚡ Fun fact: I swam with whale sharks. 
-<br>
 📫 How to reach me: linkedin.com/in/miasibala/
