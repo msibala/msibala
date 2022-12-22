@@ -8,6 +8,6 @@ Here are some ideas to get you started: -->
 <br>
 🌱 I’m currently refining my SQL & Python skills. 
 <br>
-💬 Ask me about Filipino food!
+💬 Ask me about Filipino food and Los Angeles hiking trails!
 <br>
 📫 How to reach me: linkedin.com/in/miasibala/
