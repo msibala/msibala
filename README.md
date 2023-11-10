@@ -4,10 +4,6 @@
 
 Here are some ideas to get you started: -->
 
-🔭 I’m a Fullstack Developer based in Los Angeles.
-<br>
-🌱 I’m currently refining my SQL & Python skills. 
-<br>
-💬 Ask me about Filipino food and Los Angeles hiking trails!
-<br>
+🔭 I’m a Sales Engineer based in Los Angeles.
+
 📫 How to reach me: linkedin.com/in/miasibala/
