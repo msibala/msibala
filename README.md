@@ -5,4 +5,5 @@
 Here are some ideas to get you started: -->
 
 🔭 I’m a Sales Engineer based in Los Angeles.
+<br>
 📫 How to reach me: linkedin.com/in/miasibala/
