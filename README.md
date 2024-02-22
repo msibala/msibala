@@ -1,4 +1,4 @@
-### <h1>Hi, my name is Mia. 👋</h1>
+### <h1>Hi there, my name is Mia. 👋</h1>
 
 <!-- **msibala/msibala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
